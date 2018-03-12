@@ -14,6 +14,8 @@ print_in_purple "\n   Dev Tools\n\n"
 
 install_package "Python 2.7" "python2.7"
 install_package "Python 3"   "python3"
+install_package "Python2 Package Manager" "python-pip"
+install_package "Python3 Package Manager" "python3-pip"
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
