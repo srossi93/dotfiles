@@ -7,7 +7,7 @@ cd "$(dirname "${BASH_SOURCE[0]}")" \
 
 main() {
 
-    ./run_shellcheck.sh
+#    ./run_shellcheck.sh
 
 }
 
