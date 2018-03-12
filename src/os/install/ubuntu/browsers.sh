@@ -44,9 +44,9 @@ install_package "Firefox Nightly" "firefox-trunk"
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-printf "\n"
+#printf "\n"
 
-install_package "Flash" "flashplugin-installer"
+#install_package "Flash" "flashplugin-installer"
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 

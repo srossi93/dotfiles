@@ -5,11 +5,13 @@ cd "$(dirname "${BASH_SOURCE[0]}")" \
     && . "utils.sh"
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
 update
 upgrade
 
+./zsh.sh
+
 ./build-essentials.sh
+./dev-tools.sh
 ./../nvm.sh
 
 ./browsers.sh

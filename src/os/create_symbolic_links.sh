@@ -18,6 +18,7 @@ create_symlinks() {
         "shell/bash_profile"
         "shell/bash_prompt"
         "shell/bashrc"
+        "shell/zshrc"
         "shell/curlrc"
         "shell/inputrc"
 
