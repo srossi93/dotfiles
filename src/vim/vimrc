@@ -13,6 +13,8 @@ if has("autocmd")
     "           └─────────────── Enable loading of plugin files.
 endif
 
+set mouse=a
+
 set autoindent                 " Copy indent to the new line.
 
 set backspace=indent           " ┐
